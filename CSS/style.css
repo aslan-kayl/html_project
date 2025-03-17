@@ -1,0 +1,30 @@
+
+div {
+  color: green;
+}
+
+.parent {
+  color: red;
+  border: 3px solid black;
+}
+
+.block1, .block2 {
+  color: red;
+}
+
+.block3 {
+  color: yellow;
+}
+
+div.blue-block {
+  color: pink;
+}
+
+span {
+  color: rgb(128, 128, 128);
+}
+
+div.blue-blank
+{
+  color: black
+}
