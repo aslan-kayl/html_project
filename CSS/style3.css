@@ -1,0 +1,79 @@
+.units {
+  display: flex;
+  font-size: 50px;
+  gap: 50px;
+}
+
+.units__col {
+  flex: 0 1 50%;
+}
+
+.units__col h2 {
+  text-align: center;
+}
+
+.units__item {
+  font-size: 30px;
+  background-color: #fff;
+  margin-bottom: 5px;
+  padding-left: 20px;
+}
+
+.line {
+  height: 2px;
+  background-color: black;
+  margin: 50px 0;
+}
+
+h3 {
+  margin-bottom: 50px;
+}
+
+.em__square {
+  width: 500px;
+  height: 500px;
+  background-color: black;
+}
+
+/*---------------------------------------------------*/
+
+/* .em {
+  font-size: 20px;
+} */
+
+.em title-1 {
+  /* (16 * 1.5) */
+  font-size: 1.5em;
+}
+
+.em__square {
+  width: 31em;
+  height: 31em;
+}
+
+.em-2 {
+  /* (16 * 1.5) */
+  font-size: 1.5em;
+}
+
+.em-2__child {
+  /* (24px * 1.5) */
+  font-size: 1.5em;
+}
+
+.em-2__title-1 {
+  /* (36px * 1.5) */
+  font-size: 1.5em;
+}
+
+.em-3 {
+  font-size: 1.5em;
+}
+
+html {
+  font-size: 20px;
+}
+
+.rem {
+  font-size: 1.5rem;
+}

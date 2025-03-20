@@ -1,0 +1,52 @@
+.title{
+  color: black; /*придаёт окраску */
+}
+
+.title-2 {
+  text-decoration: overline; /*подчёркивает сверху*/
+}
+
+h2 {
+  color: green; /*определяет цвет*/
+  font-family: sans-serif;
+  font-size: 20px; /*увеличивает размер текста*/
+  line-height: 25px;/*делает отсутпы снизу и сверху*/
+}
+.text-1 {
+  line-height: 42px; /*делает отсутпы снизу и сверху*/ 
+  font-style: italic; /*назначает шрифт*/
+  line-height: 25px;/*делает отсутпы снизу и сверху*/
+}
+
+.text-2 {
+  text-align: center; /*переносит текст в центр*/
+  text-decoration: line-through; /*зачёркивает текст*/
+  line-height: 25px;/*делает отсутпы снизу и сверху*/
+}
+
+.text-3 {
+  text-shadow: 2px 3px 1px #cac8c8; /*делает тень*/
+  line-height: 25px;/*делает отсутпы снизу и сверху*/
+}
+
+.text-4 {
+  text-transform: capitalize; /*делает первую букву загоавной*/
+  text-align: justify; /*делает адаптацию*/
+  line-height: 25px;/*делает отсутпы снизу и сверху*/
+}
+
+.text-5 {
+  text-indent: 200px;
+  letter-spacing: 5px; /*делает отсутпы междку буквами*/ 
+  line-height: 25px;/*делает отсутпы снизу и сверху*/
+}
+
+.text-6 {
+  word-spacing: 20px; /*делает отсутпы между словами*/
+  line-height: 25px;/*делает отсутпы снизу и сверху*/
+}
+
+.text-7 {
+  white-space: pre-wrap;
+  line-height: 25px;/*делает отсутпы снизу и сверху*/
+}
